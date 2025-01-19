@@ -1,0 +1,5 @@
+#If sets to TRUE all villagers which aren't named "§cTrader" cant trade anymore
+disableVillagers: false
+#If sets to TRUE all villagers which aren't named "§cTrader" will despawn when clicked
+killVillagers: true
+#If both are TRUE player will get 2 communicates  on chat

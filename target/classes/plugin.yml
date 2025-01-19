@@ -1,0 +1,8 @@
+name: nymoVillager
+version: '1.0-SNAPSHOT'
+main: pl.konrad0.nymoVillager.NymoVillager
+api-version: '1.21'
+authors: [ konrad0 ]
+description: Dobry plugin, pozdrawiam
+commands:
+  trader:
